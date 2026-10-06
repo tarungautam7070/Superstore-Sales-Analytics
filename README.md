@@ -55,7 +55,7 @@ A DAX Calendar table was created and connected with the Superstore Order Date fi
 
 ### Total Sales
 
-```DAX
+Dax
 Total Sales = SUM(Superstore[Sales])
 Total Profit = SUM(Superstore[Profit])
 Total Orders = DISTINCTCOUNT(Superstore[Order ID])
@@ -66,7 +66,6 @@ DIVIDE(
     [Previous Year Sales],
     0
 )
-
 Report Pages
 1. Superstore Sales Dashboard
 Main dashboard containing KPI cards, sales and profit analysis, slicers, regional analysis, category analysis, and Top 10 analysis.
@@ -78,3 +77,4 @@ Interactive tooltip page providing additional customer-level information.
 screenshots/superstore-dashboard.png
 screenshots/customer-details.png
 screenshots/customer-tooltip.png
+
