@@ -74,7 +74,7 @@ Detailed customer-level analysis with interactive filtering.
 3. Customer Tooltip
 Interactive tooltip page providing additional customer-level information.
 
+```text
 screenshots/superstore-dashboard.png
 screenshots/customer-details.png
 screenshots/customer-tooltip.png
-
